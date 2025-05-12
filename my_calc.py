@@ -1,1 +1,1 @@
-def
+sine(self,
