@@ -1,1 +1,1 @@
-math.tan(a)
+def
