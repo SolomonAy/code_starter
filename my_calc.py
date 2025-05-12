@@ -1,1 +1,1 @@
-'log':
+calc.logarithm,
