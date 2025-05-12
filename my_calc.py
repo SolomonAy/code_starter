@@ -1,1 +1,1 @@
-return
+math.tan(a)
