@@ -1,1 +1,1 @@
-<operation>
+<number1>
