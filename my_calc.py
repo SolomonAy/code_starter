@@ -1,1 +1,1 @@
-math.e
+result
