@@ -1,1 +1,1 @@
-print("Format:
+<operation>
