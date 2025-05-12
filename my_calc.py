@@ -1,1 +1,1 @@
-return
+math.cos(a)
