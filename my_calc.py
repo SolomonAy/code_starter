@@ -1,1 +1,1 @@
-quit)")
+print("Operations:
