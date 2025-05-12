@@ -1,1 +1,1 @@
-return
+math.log(a,
