@@ -1,1 +1,1 @@
-return
+math.sqrt(a)
