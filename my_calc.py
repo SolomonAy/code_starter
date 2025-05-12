@@ -1,1 +1,1 @@
-math.sqrt(a)
+def
