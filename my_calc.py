@@ -1,1 +1,1 @@
-math.sin(a)
+def
