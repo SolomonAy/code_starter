@@ -1,1 +1,1 @@
-requires
+two
