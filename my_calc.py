@@ -1,1 +1,1 @@
-def
+modulo(self,
