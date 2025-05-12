@@ -1,1 +1,1 @@
-operations[op](num1)
+#
