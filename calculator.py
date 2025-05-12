@@ -124,3 +124,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# this calculator is a basic calculator. I hope it will be useful for learners. Good luck.
