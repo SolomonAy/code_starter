@@ -1,1 +1,1 @@
-num2)
+print(f"Result:
