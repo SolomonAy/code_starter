@@ -1,1 +1,1 @@
-calc.cosine,
+'tan':
