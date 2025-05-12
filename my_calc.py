@@ -1,1 +1,1 @@
-print("Single
+operand
