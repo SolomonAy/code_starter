@@ -1,1 +1,1 @@
-float(user_input[1])
+num2
