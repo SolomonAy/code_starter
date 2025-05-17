@@ -1,1 +1,1 @@
-if
+math.cos(a)
