@@ -1,1 +1,1 @@
-'sin':
+calc.sine,
