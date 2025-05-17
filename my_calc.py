@@ -1,1 +1,1 @@
-logarithm
+of
