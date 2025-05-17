@@ -1,1 +1,1 @@
-def
+cosine(self,
