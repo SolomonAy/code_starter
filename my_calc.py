@@ -1,1 +1,1 @@
-ValueError("Invalid
+logarithm
