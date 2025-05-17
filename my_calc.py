@@ -1,1 +1,1 @@
-'exit':
+print("Goodbye!")
