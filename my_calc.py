@@ -1,1 +1,1 @@
-operation:
+").strip().split()
