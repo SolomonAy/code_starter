@@ -1,1 +1,1 @@
-if
+len(user_input)
