@@ -1,1 +1,1 @@
-input("Enter
+operation:
