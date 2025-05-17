@@ -1,1 +1,1 @@
-raise
+ValueError("Square
