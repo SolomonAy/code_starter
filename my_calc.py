@@ -1,1 +1,1 @@
-calc.logarithm,
+'sin':
