@@ -1,1 +1,1 @@
-math.log(a,
+base)
