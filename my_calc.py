@@ -1,1 +1,1 @@
-'sqrt':
+calc.square_root,
