@@ -1,1 +1,1 @@
-user_input[0]
+if
