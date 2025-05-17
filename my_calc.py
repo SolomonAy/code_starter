@@ -1,1 +1,1 @@
-return
+math.sin(a)
