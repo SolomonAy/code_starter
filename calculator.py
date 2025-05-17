@@ -1,3 +1,5 @@
+# a useful calculator app
+
 import math
 
 class Calculator:
