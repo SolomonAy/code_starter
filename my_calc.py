@@ -1,1 +1,1 @@
-").strip().split()
+if
