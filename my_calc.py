@@ -1,1 +1,1 @@
-sine(self,
+a:
