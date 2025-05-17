@@ -1,1 +1,1 @@
-calc.subtract,
+'*':
