@@ -1,1 +1,1 @@
-def
+logarithm(self,
