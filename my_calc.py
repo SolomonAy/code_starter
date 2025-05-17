@@ -1,1 +1,1 @@
-'tan':
+calc.tangent
