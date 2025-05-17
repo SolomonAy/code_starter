@@ -1,1 +1,1 @@
-if
+user_input[0].lower()
