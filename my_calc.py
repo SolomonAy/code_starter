@@ -1,1 +1,1 @@
-def
+multiply(self,
