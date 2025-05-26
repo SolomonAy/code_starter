@@ -4,7 +4,7 @@ import os
 
 # Configuration
 SCRIPT_TO_RUN = "commit_words.py"
-RUN_COUNT = 500
+RUN_COUNT = 100
 
 def run_script(script_path):
     """Run a Python script and return its output and exit code."""
@@ -27,7 +27,7 @@ def main():
         print(f"Error: {SCRIPT_TO_RUN} not found in current directory.")
         sys.exit(1)
 
-    # Run the script 500 times
+    # Run the script N times
     for i in range(1, RUN_COUNT + 1):
         print(f"Run {i}/{RUN_COUNT}: Executing {SCRIPT_TO_RUN}...")
         stdout, stderr, exit_code = run_script(SCRIPT_TO_RUN)
